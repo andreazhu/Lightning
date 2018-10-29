@@ -23,8 +23,8 @@ void draw()
   float g = (int)(Math.random()*255); //[0,255]
   float b = (int)(Math.random()*255); //[0,255]
   float radius = (int)(Math.random()*50 + 10);  //[10,60]
-  float cx = (int)(Math.random()*1000);  //[0,400]
-  float cy = (int)(Math.random()*500);  //[0,400]
+  float cx = (int)(Math.random()*1000);  //[0,1000]
+  float cy = (int)(Math.random()*500);  //[0,500]
   background(255,255,255);
   while (endX <= 1000) {
     stroke(r,g,b);
