@@ -1,3 +1,9 @@
+/** Lightning Project using Random Walk
+  * Animation 
+  * @author Andrea Zhu
+  * @date 2018-10-29
+  */
+
 int startX = 0;
 int startY = 250;
 int endX = 0;
